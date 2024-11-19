@@ -74,7 +74,3 @@ Based on the evaluation, the Extra Trees Classifier (ETC) was selected for deplo
 - Enhancing data preprocessing with more advanced NLP techniques.
 - Expanding the dataset with more diverse email sources.
 
-
-## Contact
-
-For any questions, please contact pp2549@srmist.edu.in.
